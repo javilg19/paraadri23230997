@@ -1,0 +1,62 @@
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+h1 {
+    padding: 10px;
+    color: #711DB0;
+}
+
+
+
+button {
+    color: brown;
+    width: 80px;
+    height: 40px;
+    border: 3px solid #711DB0;
+    border-radius: 10px;
+    background-color: transparent;
+    font-size: xx-large;
+    
+}
+
+#Si {
+    grid-row:  5;
+    grid-column: 5;
+}
+
+#No {
+    grid-row: 5;
+    grid-column: 6;
+    
+}
+
+section {
+    display: grid;
+    grid-template-columns: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    grid-template-rows: 10% 10% 10% 10% 10% 10% 10% 10% 10% 10%;
+    width: 1200px;
+    height: 600px;
+    align-items: center;
+    justify-items: center;
+}
+
+body {
+    max-width: 1200px;
+    max-height: 673px;
+    margin: 0 auto;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spreadshirt.com%2Fshop%2Fdesign%2Fme%2Bperdonas%2Bhemp%2Bcarry%2Ball%2Bpouch-D603187affdac403c939535a3%3Fsellable%3DnOJNwYXgL7H1nwwBZRgm-1442-33&psig=AOvVaw1XcSsEf3buoZMh1aIl4aM1&ust=1706122127759000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjby7iW9IMDFQAAAAAdAAAAABAD);
+    background-repeat: no-repeat; 
+    background-position: center center; 
+     background-size: cover;
+    
+}
+
+p {
+    font-size: xx-large;
+    justify-content: center;
+    color: pink;
+}
