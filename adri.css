@@ -48,8 +48,7 @@ body {
     max-width: 1200px;
     max-height: 673px;
     margin: 0 auto;
-    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spreadshirt.com%2Fshop%2Fdesign%2Fme%2Bperdonas%2Bhemp%2Bcarry%2Ball%2Bpouch-D603187affdac403c939535a3%3Fsellable%3DnOJNwYXgL7H1nwwBZRgm-1442-33&psig=AOvVaw1XcSsEf3buoZMh1aIl4aM1&ust=1706122127759000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMjby7iW9IMDFQAAAAAdAAAAABAD);
-    background-repeat: no-repeat; 
+    background-image: <link href="STK-20230825-WA0037">; 
     background-position: center center; 
      background-size: cover;
     
